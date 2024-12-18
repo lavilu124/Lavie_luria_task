@@ -15,6 +15,7 @@ export default function App() {
       return;
     }
 
+    
     setLoading(true);
     setError(null);
     setWeatherData(null);
